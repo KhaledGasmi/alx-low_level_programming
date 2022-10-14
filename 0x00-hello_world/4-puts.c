@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * we gonna use puts 
+ * main - Entry
+ * Return: always 0
  */
 int main(void)
 {
